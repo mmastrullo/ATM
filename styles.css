@@ -1,0 +1,16 @@
+select{
+    display: block;
+    margin: 10%;
+    color: green;
+}
+#submit-input{
+    color: green;
+}
+
+h3{
+    background-color: honeydew;
+}
+
+h2{
+    background-image: linear-gradient(honeydew, white) ;
+}
